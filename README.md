@@ -8,6 +8,6 @@ As an overview, folders contain the following files:
 
 Banner - Examples of banners used to show mainnet, Luna testnet etc.
 
-Logo - Examples of primary hexagon logo.
+Logo - Examples of primary hexagon logo and Nimiq brandmark alongside logo.
 
 Fonts - Source Sans Pro font, used for the 'Nimiq' name in the Brandmark and all body text where applicable (system font used for web).
